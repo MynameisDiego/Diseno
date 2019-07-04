@@ -1,0 +1,57 @@
+The Basics of Conflict in Games
+
+Every good game is based around conflict.
+
+I’m not talking about player vs player conflict. Sure, that’s at the core of a lot of games but not all – Snakes and Ladders, for example, has very little player vs player conflict. Lots of euros, like Power Grid or Goa, have little or no player vs player conflict.
+
+And yet, they’re full of conflict.
+
+See, the conflict I’m talking about isn’t the type where you bash your opponents over the head with clubs (or panzer divisions or spent flamethrower casings – yes Advanced Squad Leader, I’m looking at you). I’m talking about the emotional conflict that every good game is based on.
+
+Note that I’m saying “good game” here and in doing so I’m making an assumption: that people play games in order to be challenged.
+
+There are plenty of pastimes that aren’t required to be challenging, like watching movies or making a grilled ham sandwich or flying a kite. Pretty much every type of play can be enjoyable without the requirement of being challenging. But in games there’s an inherent requirement of challenge, of doing something against an opposition, even if it’s random chance in a pure solo game.
+
+That opposition drives the conflict I’m talking about. Because if you care about the game, if you care about winning, you will have tension. Find just the right amount of tension and you’ve got a game you’ll love to play again and again and again.
+
+So, back to the conflicts. Tension rises from emotional conflicts. Emotional because you need to be engaged emotionally in order to feel tension. If you don’t care you won’t be tense even if you’re being shot at (like literal “bullets flying” shot at) – there’s nothing inherently tense in the world, only thinking makes it so.
+
+The conflict part is about feeling more than one emotion. If all you feel is fear you won’t have a conflict, you’ll only have fear. And if all you feel if a single emotion then you won’t have tension as tension arises out of conflicting emotions. Instead you’ll have that single, overwhelming emotion until your players experience emotional overload and shut down. That’s why thrillers and horror movies rarely crank up the meter to max all the time. No, they crank it up now-and-again, taking the viewer for an emotional roller coaster of fear and relief. Anything else and people would shut down entirely and think that the movie were pretty bad.
+
+So, now that we’ve gotten that part down, what types of conflict are possible to create in a game?
+
+For starters there are lots of types you can’t create. You’ll never get a conflict in a board game that involves love (unless your players are a very special bunch, love is something that’s reserved for games that build up strong relations between player and avatar over time, like RPG – and here’s a caveat: Pathfinder Adventure Card Game). For that same reason you’ll be hard pressed to create a conflict that involves grief, or rage (actually you don’t want rage, conflicts involving rage often begin with frustration and end in fistfights, neither of which will get people to play your game).
+
+But you can get conflicts involving fear, mainly fear of loss, either of losing what you already have or missing out on an opportunity. That’s one of the most common types of conflict in games: fear vs greed.
+
+On one hand you fear that you’ll miss the chance, you have a risk of losing. On the other hand you hope to get more than you could if you’d played it safe. Every push-your-luck game in the world is based on fear vs greed, and it’s a very successful conflict. Just look at Can’t Stop or Ticket to Ride to see what I mean. In Can’t stop it’s the conflict of “just one more roll” (greed) vs “I’ll lose it all” (fear). In Ticket to Ride it’s “I’ll need those cards” (greed) vs “someone else will build first and block me” (fear). But I’m sure that you can come up with more examples yourself.
+
+Take a look at what’s happening here: we’ve got a conflict between two negative emotions. That’s because a conflict between a positive emotion and a negative emotion isn’t a conflict, it’s a guiding principle. Who’d ever choose fear in a conflict of fear vs love? Or anger in a conflict of anger vs joy?
+
+Another thing to consider is that greed and fear are relatively far away from each other; they’re not exclusive or merging. If you’d have a conflict between greed and jealousy, both of which have to do with possessions (greed is wanting something, while jealousy is resenting that someone else has something), they would be sufficiently close together that they’d merge into a single feeling and you’d end up without a conflict.
+
+On the positive side you might have a conflict between control and surprise. For example, when drawing a card in TTR instead of taking one of the open ones. But it’s hard to get an intense conflict between positive emotions – humans are more adept at reacting to negative emotions than to positive ones. If we’re presented with two good things we happily accept either one of them, but if we are presented with two bad things we will have a hard time deciding which one we should suffer.
+
+There are some situations where you may have a conflict between a positive and a negative emotion, but in my opinion they aren’t true conflicts. For example, in Power Grid you might have a conflict between control and frustration – control at being able to predict your opponents moves and calculate the optimal solution to the situation and frustration at being unable to do that.
+
+However, that’s only a sliding scale of a single overarching emotion. Frustration comes from lack of control and thus it’s in the same range/scale/measurement. What the player feels is rather a shift from emotion to relief – you feel frustrated or in control and then it’s flipped, you lose the emotion and feel a relief of it (I’m using relief as in psychological relief here, most people aren’t “relieved” to lose control).
+
+You could have a conflict between control and fear, i.e. you fear that you will not have control. This would be a “truer” conflict than between control and frustration (yes, I know I’m going out on a limb here, I haven’t got any data to back this up with other than my gut feeling – and I’ve got a large gut). However, in order for it to work it needs and external limit or external pressure that the player feels will act on its own.
+
+There’s another thing to note here – if you’re going to have external pressures generating internal conflicts you need the player to feel that those external pressures A) have a bearing on the player’s well being and B) will act on their own, i.e. they’re not static.
+
+If they external pressures don’t have a bearing on a player’s well being then you’re back in the “don’t care” category – players don’t care and thus they don’t have any emotional response to the pressure. Any type of “pressure” that can’t affect a player is meaningless. This is true both for physical and social pressures. If there’s no consequences for betraying a trust in Diplomacy or an alliance in Risk then there’s no need to even consider them. They become empty words and the entire social/diplomatic aspect is lost. The reason you’ve got negotiations at all is that players feel that they have some sort of consequences – if you betray a trust in Diplomacy or Risk or Civilization or any type of direct interaction game you’re likely to suffer from the glares and curses of the afflicted player. If a player doesn’t give you any sort of reaction (or you don’t care about their reactions at all) there’s no reason to consider them – just steamroll over their position whenever you feel like it.
+
+Another example is the false external pressure. Say that you’ve got a game that is played using a timer but the amount of time on the timer is so large that it never limits your actions or your ability to think/plan/carry them out. The timer doesn’t give any pressure, except perhaps the pressure that you can’t run off in the middle of the game to go to the bathroom. You’ve got an external pressure that acts on it’s own (the timer will go off) but doesn’t have a bearing on the player’s well being.
+
+As for the act on their own criteria, if the pressure isn’t able to act on its own then it has a hard time influencing the player. If you’ve got a resource you can take at any time at no cost (i.e. there’s no competition for the resource, nor can it disappear) then the resource become valueless. You could just as easily remove it from the game entirely.
+
+A game with static opposition isn’t a game, it’s a puzzle to be solved and once solved is removed/gone. Yes, there can be a challenge in solving a puzzle, especially if there’s some sort of time limit, that will give an emotional response. But consider a game where another player does exactly as you tell them to. They’re not an opponent any more, they’re an extension of yourself (alpha player syndrome, anyone?). After a while you won’t even consider them (I’ve played with such players and they’re not fun, and can ruin an entire game if someone is adept at using their gullibility) – and you’re back to “don’t care”.
+
+I haven’t really spoken about PvP conflict, except to disown it as a source of conflict, so here’s an example: the Viking game of line punching – everyone stands in a line and then the first person goes down the line, punches every other person and goes to stand last in line. This is repeated until every player but one is either unconscious or chickens out. Whoever remains standing wins. Lots of player vs player conflict. Not very much fun (at least for me – I’m a nerd and I wear glasses so please don’t hit me).
+
+And yet the Vikings thought it was hilarious.
+
+That’s because for the Vikings there was a great social stigma in backing down. They’d rather die than be branded cowards (being knocked out made you the target of ridicule but was socially acceptable). For them it became a conflict of pain vs social stigma, or fear of pain vs fear of social stigma (yeah, it’s a fear vs fear situation, not good game design). For us, who have no social stigma about not getting hurt, there’s no conflict and no fun. But there could be – just look at the gang jump-in initiation rituals. They’re basically a Viking line punching game except that everyone gets to punch one person and that person has to face the fear of injury vs the fear of stigma of being excluded from the gang. And since they see being in the gang as a desirable outcome we could argue that it’s a fear vs greed situation. I guess we could see the line punching game as the same sort of situation: fear of pain vs the greed of wanting to be the cool Viking on the block.
+
+But that’s semantics.
